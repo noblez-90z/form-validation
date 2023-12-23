@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+}
+label{
+    display: block;
+    background-color: aqua;
+}
+button{
+    display: block;
+}
+span{
+    position: relative;
+    bottom: 15px;
+    right: 85px;
+    color: red;
+}
+#submit-error{
+    left: 70px;
+}
